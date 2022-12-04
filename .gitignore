@@ -1,0 +1,4 @@
+.Python/idea/
+.Python/idea/inspectionProfiles/profiles_settings.xml
+Python/pages/__pycache__/page01.cpython-39.pyc
+*.pyc
